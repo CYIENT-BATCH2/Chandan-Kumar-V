@@ -1,0 +1,8 @@
+start
+Read integer from the user
+check the number will give reminder with 11 is zero
+OR number will give reminder with 11 is one
+if any one is true 
+Then print the given number is special
+else
+Print the number given is not special

@@ -1,0 +1,6 @@
+Start
+Read the Radius value from the user
+caculate the area using 
+Area=3.142*radius*radius
+Then print the area of circle 
+Stop

@@ -1,0 +1,10 @@
+Start
+Declare char type ch,a,e,i,o,u
+Read a character from user
+Check weather 
+if 
+The given character is a or e or i or o or u
+Then print the character enterd is vowel
+else
+Print the character is consonent
+Stop 
