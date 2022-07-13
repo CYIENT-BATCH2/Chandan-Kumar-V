@@ -1,0 +1,7 @@
+Start
+Read the number of students in the class
+Check if n!=0
+temp=n*(n-1)
+sum=temp/2
+print the number of handshakes
+Stop

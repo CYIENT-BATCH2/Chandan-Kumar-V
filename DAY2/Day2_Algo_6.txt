@@ -1,0 +1,5 @@
+Start
+Read the fahrenheit value from user(float value)
+calculate Clecius= ((5.0/9.0) * (fahr - 32))
+print celcius value
+Stop

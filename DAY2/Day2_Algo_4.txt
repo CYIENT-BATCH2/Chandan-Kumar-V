@@ -1,0 +1,14 @@
+Start
+Read the number of lottery tickets from the user
+Read the lottery numbers from the user
+for(int i = 0; i < size; i++)
+temp = arr[i];
+while(temp)
+rem = temp % 10
+if(rem == 3)
+increment the count value
+break
+else
+temp = temp / 10;
+print the count value
+Stop

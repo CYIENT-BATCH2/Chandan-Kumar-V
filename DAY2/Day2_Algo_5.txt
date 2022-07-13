@@ -1,0 +1,5 @@
+Start
+Read a number from user
+assign result to number+64
+print the result using character specifier fromat
+Stop

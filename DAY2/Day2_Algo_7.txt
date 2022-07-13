@@ -1,0 +1,12 @@
+Start
+Read the year from the user
+using else if ladder
+Check if(year % 400 == 0) 
+print the year is leap year
+else if (year % 100 == 0)
+print the year is leap year
+else if (year % 4 == 0)
+print the year is leap year
+else
+print the year is leap year
+Stop

@@ -1,0 +1,9 @@
+Start
+Read the 10 digit Phone number from the user
+create loop
+Check if the number is greater than 0
+sum = sum  + (number % 10) ;
+number = number / 10;
+Continue the loop
+display the sum
+Stop

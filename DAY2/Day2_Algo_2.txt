@@ -1,0 +1,5 @@
+Start
+Read 2 digit Id from the user
+perform right shift operation
+thhe print the binary value of the Id
+Stop
