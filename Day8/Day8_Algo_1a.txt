@@ -1,0 +1,7 @@
+Start
+Declare the integer variable 
+declare a function that takes value and position to be flip from the user
+calling the function after the giving the both the arguments
+printing the binary value before toggiling and after toggling the bit
+performing the toggling operation
+Stop 

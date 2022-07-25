@@ -1,0 +1,10 @@
+Start
+Declare a function which take size and pointer as argument
+declare integer variable
+Read the size of array and define array
+read the array from the user
+call the function of sorting
+check the condition if the number is greater then next number do the swapping
+run the loop till all elemets are sorted
+print the sorted array
+Stop

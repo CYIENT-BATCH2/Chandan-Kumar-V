@@ -1,0 +1,8 @@
+Start
+Take the integer variable 
+the value of register is given as 0xF3
+print the binary value of the hexadecimal value
+Using the bitwise AND with 0x07 will get the first 3 bits 
+then using bitwise And and right shift we can extract the value 
+prints the extracted value of the particular bits
+Stop

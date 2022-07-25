@@ -1,0 +1,7 @@
+Start
+Read the hexadecimal value from the user
+print the binary value so the user can check whether the bit are set to 1 or not
+after printing we need to use bitwise OR to set the bit given by the user
+printing the hexadecimal value after setting the bit 
+printing the binay value after setting the bit for the user understanding
+Stop
