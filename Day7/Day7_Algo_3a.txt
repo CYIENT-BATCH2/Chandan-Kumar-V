@@ -1,0 +1,6 @@
+Start
+Declare the variables 
+Read the input from the user 
+Depend upon the ADCONO bits value have to perform the Clear bits of CMCON 
+Display the value 
+Stop

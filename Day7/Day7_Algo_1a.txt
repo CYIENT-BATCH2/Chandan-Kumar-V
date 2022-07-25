@@ -1,0 +1,6 @@
+Start
+Declare the variable and initilaize the value
+Using the function call the big function
+Using the bitwise the logic operation 
+Print the value 
+Stop

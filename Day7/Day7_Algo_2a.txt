@@ -1,0 +1,7 @@
+Start
+Declare the variables
+Read the input from the user as a input
+Before swapping even with odd bit display the num in the form of binary representation
+Using the bitwise operation & and shift operation have to do solve
+After swapping display the binary represenation 
+Stop
