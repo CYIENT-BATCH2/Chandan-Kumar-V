@@ -1,0 +1,7 @@
+Start
+The value of the variable is given in problem statement
+Array with size 3 is defined
+printing the binary value of -60 
+Declaring the function prototype and performing the bitwise operation to 
+store value in the array and printing the output
+Stop

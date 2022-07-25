@@ -1,0 +1,7 @@
+Start
+The variable are given in the question
+We need to 1000 in the array at index 0, 1, 2 
+at index 3 we need to engine temperature
+Using bitwise AND and biwise left shift and right shift are used
+printing the array to check the elments stored
+Stop

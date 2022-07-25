@@ -1,0 +1,6 @@
+Start
+Defined the array with some size and other varaible
+Read the size from the user and store it in the variable
+calling the function with the araguments
+printing the array in ascending order after calling function
+Stop
