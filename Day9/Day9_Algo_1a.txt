@@ -1,0 +1,6 @@
+Start
+Read the input from the user in register as hexadecimal value
+Print the binary value of the hexa value
+Using Bitwise AND OPERATION to clear the bit in the register
+Again binary and hexadecimal value are printed for user understanding
+Stop

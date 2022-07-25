@@ -1,0 +1,7 @@
+Start
+Declare integer variable
+read hexadecimal input from the user
+print the binary representation og register ADCON and CMCON
+Check the condition if Adcon register value is 0x06 then clear the CMCON register 
+else print the message that bit is not claered
+Stop

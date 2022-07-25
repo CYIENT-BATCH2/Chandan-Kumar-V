@@ -1,0 +1,6 @@
+Start
+Declare the variable and store the varaible
+print the binary value for understanding
+Using bitwise AND operation we can get the bits
+Print the bit value of all the register
+Stop
