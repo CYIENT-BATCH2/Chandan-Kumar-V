@@ -1,0 +1,8 @@
+Start
+Initilize variables
+Print the values before swaping
+    i=i+j;
+    j=i-j;
+    i=i-j;
+Print the values after swaping
+Stop

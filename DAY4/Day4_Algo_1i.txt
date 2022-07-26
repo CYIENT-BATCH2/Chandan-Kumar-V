@@ -1,0 +1,11 @@
+Start
+Initilize a variable
+Read the value of number
+Read the value of position
+perform num=num|(1<<pos);
+print the set bit
+perform num=num&~(1<<pos);
+print the clear bit
+perform num=num^1<<pos;
+print compliment of bit
+Stop

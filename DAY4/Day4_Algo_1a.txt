@@ -1,0 +1,8 @@
+Start
+Initilize the variables
+Perform k = x + y * z / 4 % 2 - 1;
+Perform k= x% y+z*z;
+Perform k=  x*x-y/z;
+Perform k= x+y/z-y; 
+Perform y=x+y-(x=y); 
+Stop

@@ -1,0 +1,11 @@
+Start
+Initilize the variables
+Perform z= x<y;
+Perform z= x>y;
+Perform z=x<=y;
+Perform z=(x*x*x)<(y*x*x);
+Perform z=(x*x-y)>(y*y-x);
+Perform z=((x*y)!=(y*x));
+Perform z=((x*y)==(y*x));
+Stop
+

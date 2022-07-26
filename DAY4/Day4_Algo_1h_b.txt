@@ -1,0 +1,8 @@
+Start
+Initilize a variable
+Read the value of n
+Check if n%2 == 0
+print the number is is Even
+else
+print the number is odd
+Stop 

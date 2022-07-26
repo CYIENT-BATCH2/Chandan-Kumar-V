@@ -1,0 +1,12 @@
+Start
+Initilize the datatype 
+print the value of integer using sizeof operator
+print the value of float using sizeof operator
+print the value of double using sizeof operator
+print th value of character using sizeof operator
+
+print the value of integer datatype using sizeof operator
+print the value of float datatype using sizeof operator
+print the value of double datatype using sizeof operator
+print th value of character datatype using sizeof operator
+Stop

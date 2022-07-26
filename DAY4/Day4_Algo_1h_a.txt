@@ -1,0 +1,8 @@
+Start
+Initilize variables
+Read the values of i and j
+Check if i>j
+print i is greater
+else
+print j is greater
+Stop

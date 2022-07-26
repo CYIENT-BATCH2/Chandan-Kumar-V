@@ -1,0 +1,10 @@
+Start
+Initilize a variable
+Read the value of n
+Check if n > 0
+print the number is is Positive
+else if n < 0 
+print the number is negetive
+else
+print neither negative nor positive
+Stop 
